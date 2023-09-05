@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   modules: [
     'nuxt-vitest',
+    '@pinia/nuxt',
     '@nuxt/devtools',
     '~/modules/custom',
   ],
