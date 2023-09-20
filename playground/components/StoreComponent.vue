@@ -1,5 +1,5 @@
 <template>
-  {{ navState ? 'closed' : 'opened' }}
+  {{ navState }}
 </template>
 
 <script lang="ts" setup>
